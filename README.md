@@ -135,7 +135,7 @@ class JobPostingDetailSerializer(BaseJobPostingSerializer):
         return representation
 ```
 
-# 요구사항 1
+# 요구사항 6
 
 ### POST api/application/
 
